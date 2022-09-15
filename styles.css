@@ -170,6 +170,7 @@ button {
   grid-template-columns: repeat(3, 1fr);
   flex-wrap: wrap;
   justify-content: space-around;
+  gap: 30px;
 }
 
 .card {
@@ -214,6 +215,7 @@ button {
   }
   .card {
     flex-direction: column;
+    margin: 20px !important;
   }
 }
 
